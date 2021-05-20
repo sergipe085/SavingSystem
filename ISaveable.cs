@@ -1,4 +1,4 @@
-namespace RPG.Saving {
+namespace Saving {
     public interface ISaveable {
         object CaptureState();
         void RestoreState(object state);

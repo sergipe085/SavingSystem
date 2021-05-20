@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace RPG.Saving {
+namespace Saving {
     [Serializable]
     class SerializebleVector3 {
         public float x, y, z;

@@ -7,7 +7,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Collections.Generic;
 using System.Collections;
 
-namespace RPG.Saving
+namespace Saving
 {
     public class SavingSystem : MonoBehaviour
     {

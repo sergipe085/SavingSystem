@@ -33,11 +33,11 @@ The following tools were used in the construction of the project:
 ### 🚀 How to Use
 
 1. Create the "SavingSystem" object
-    Create a GameObject on your scene and add the "SavingSystem" component to it
+    <p>Create a GameObject on your scene and add the "SavingSystem" component to it</p>
     <img src="./images/savingSystemObject.png" alt="Saving System Object" width="500" />
 
 2. Add the "SaveableEntity" component
-   Add the "SaveableEntity" component to the for the GameObjects you want to save the data and dont modify the ID property
+   <p>Add the "SaveableEntity" component to the for the GameObjects you want to save the data and dont modify the ID property</p>
    <img src="./images/saveableObject.png" alt="Saveable object" width="500" />
 
 3. Rode a aplicação

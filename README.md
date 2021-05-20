@@ -44,23 +44,26 @@ The following tools were used in the construction of the project:
    <p>Add the "ISaveable" interface to the classes you want to store data and then implement the interface. On the "CaptureState()" method you need to return the data you want to save and on the "RestoreState()" you want to deal with this data.</p>
    <img src="./images/position.png" alt="Saveable object" width="500" />
 
-## 🤝 Como contribuir
+#### 4. Save and Load
+  <p>Use the "Save(string fileName)" and the "Load(string fileName)" methods from the "SavingSystem" object and be happy :)</p>
 
-Todo tipo de contribuição é bem-vinda, nós admiramos isso!
+## 🤝 How to Contribute
 
-Tem algum problema? Encontrou um bug? Tem alguma dica? Abra uma [issue](https://github.com/carlos3g/<REPO_NAME>/issues) descrevendo.
+Every kind of contribution is welcome, we admire it!
 
-Quer contribuir com código? Pedimos que antes leia [este guia de contribuição](https://github.com/firstcontributions/first-contributions)
+Is there any problem? Found a bug? Do you have any tips? Open a [issue](https://github.com/serjolas1/SavingSystem/issues) describing.
 
-Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
+Want to contribute code? We ask that you first read [this contribution guide](https://github.com/firstcontributions/first-contributions)
 
-## 📝 Licença
+Don't forget to leave your ⭐, it is also a way to contribute to the project;)
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## 📝 License
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
 
 ---
 <div align="center">
 
-  Criado por [Carlos Mesquita](https://github.com/carlos3g) 💜
+  Criado por [Serjolas1](https://github.com/serjolas1) 💜
 
 </div>

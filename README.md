@@ -12,15 +12,15 @@
   </div>
 </div>
 
-## Tabela de conteúdos
+## Table of Contents
 
    * [About the Project](#-sobre-o-projeto)
-      - [Tecnologias](#-tecnologias)
-      - [Como executar](#-como-executar)
-   * [Como contribuir](#-como-contribuir)
-   * [Licença](#-licença)
+      - [Technologies](#-tecnologias)
+      - [How to Use](#-como-executar)
+   * [How to Contribute](#-como-contribuir)
+   * [License](#-licença)
 
-## 💻 Sobre o projeto
+## 💻 About the Project
 
 - This is an open-source saving system to Unity made in C#.
 

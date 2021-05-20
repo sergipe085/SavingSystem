@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <REPO_NAME>
+    <SavingSystem>
   </h1>
   <blockquote>
     <REPO_SHORT_DESCRIPTION>
@@ -22,11 +22,11 @@
 
 ## 💻 Sobre o projeto
 
-<SavingSystem> - <This is an open-source saving system to Unity made in C#.>
+- This is an open-source saving system to Unity made in C#.
 
 ### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Unity](https://unity.com)
 
@@ -36,13 +36,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
    ```md
     Create a GameObject on your scene and add the "SavingSystem" component to it
    ```
-    <img src="./images/savingSystemObject.png" alt="Saving System Object" width="300" />
+    <img src="./images/savingSystemObject.png" alt="Saving System Object" width="500" />
 
-2. Instale as dependências
+2. Add the "SaveableEntity" component
    ```bash
-   cd <REPO_NAME>
-   yarn install
+   Add the "SaveableEntity" component to the for the GameObjects you want to save the data and dont modify the ID property
    ```
+   <img src="./images/saveableObject.png" alt="Saveable object" width="500" />
 
 3. Rode a aplicação
    ```bash

@@ -64,6 +64,6 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE) for mo
 ---
 <div align="center">
 
-  Made by [Serjolas1](https://github.com/serjolas1) 💜
+  Made by [Sergipe](https://github.com/sergipe085) 💜
 
 </div>
